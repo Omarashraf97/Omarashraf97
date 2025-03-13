@@ -5,7 +5,7 @@
 
 ## 🔗 My Projects  
 - [Pharmacy Website](https://github.com/Omarashraf97/pharmacy-website)  
-- [Another Project](#)  
+ 
 
 ## 📫 Contact Me  
 - 📧 Email: omaraamin06@gmail.com  
