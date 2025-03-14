@@ -9,4 +9,3 @@
 
 ## 📫 Contact Me  
 - 📧 Email: omaraamin06@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/omarashraf97)  
