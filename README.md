@@ -1,11 +1,12 @@
-# Hi there! 👋 I'm Omar Ashraf  
-
-💻 Front-End Developer | JavaScript | React | Bootstrap | CSS  
-🚀 Passionate about building web applications and learning new technologies  
-
-## 🔗 My Projects  
-- [Pharmacy Website](https://github.com/Omarashraf97/pharmacy-website)  
+ I'm Omar Ashraf
  
+- MERN Stack Developer
+- Currently building full-stack projects with React + Node.js
+- 🎯 Learning Git, GitHub, and Deployment
 
-## 📫 Contact Me  
-- 📧 Email: omaraamin06@gmail.com  
+## Tech Stack
+
+-  Languages: JavaScript, HTML, CSS
+-  Frontend: React, Bootstrap,  CSS
+-  Backend: Node.js, Express.js
+-  Database: MongoDB (Mongoose)
