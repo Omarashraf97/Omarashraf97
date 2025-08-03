@@ -2,7 +2,6 @@
  
 - MERN Stack Developer
 - Currently building full-stack projects with React + Node.js
-- 🎯 Learning Git, GitHub, and Deployment
 
 ## Tech Stack
 
